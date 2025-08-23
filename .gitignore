@@ -635,7 +635,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 *.keras
-.idea/*
+.idea/
 *.xml
 *.iml
 
